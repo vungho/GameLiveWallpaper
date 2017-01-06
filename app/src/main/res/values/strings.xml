@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Game Live Wallpaper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="app_author">Quoc Vung Ho</string>
+    <string name="app_description">Set live wallpaper</string>
+    <string name="app_context_description">Set live wallpaper</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="downloadStateFalse">DOWNLOAD</string>
+    <string name="downloadStateTrue">DOWNLOADED</string>
+    <string name="selectLWP">Select wallpaper</string>
+
+    <string name="off_name">Disconnected</string>
+    <string name="off_mess">Please check your device connect</string>
+</resources>

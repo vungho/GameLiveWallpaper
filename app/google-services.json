@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557957251599",
+    "firebase_url": "https://gamelivewallpaper.firebaseio.com",
+    "project_id": "gamelivewallpaper",
+    "storage_bucket": "gamelivewallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557957251599:android:b9b46c93f215e25c",
+        "android_client_info": {
+          "package_name": "com.hoquocvung.gamelivewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557957251599-ffjgl74l21tqpsf8uab2ssr6vg01s6aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoquocvung.gamelivewallpaper",
+            "certificate_hash": "F540C0E9577F4F2C1E18526C1D0B585621632C91"
+          }
+        },
+        {
+          "client_id": "557957251599-ejne4rnjoj5cucfrs59j9018ussnh8bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfsFetCHYBZHd5Ho13VKa0zeVNNz_A8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557957251599-ejne4rnjoj5cucfrs59j9018ussnh8bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

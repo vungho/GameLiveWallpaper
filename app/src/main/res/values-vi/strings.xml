@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Live Wallpaper</string>
+    <string name="action_settings"></string>
+    <string name="app_author">Hồ Quốc Vửng</string>
+    <string name="app_description">Cài đặt hình nền động</string>
+    <string name="app_context_description">Cài đặt hình nền động</string>
+    <string name="downloadStateFalse">Tải về</string>
+    <string name="downloadStateTrue">Đã tải</string>
+    <string name="selectLWP">Chọn hình nền</string>
+    <string name="off_name">Không có kết nối</string>
+    <string name="off_mess">Xin kiểm tra lại kết nối của thiết bị</string>
+</resources>
